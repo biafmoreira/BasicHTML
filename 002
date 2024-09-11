@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>quebrando a linha em um parágrafo</title>
+</head>
+<body>
+    <h1> quebras de linha </h1>
+    <hr> 
+    <p> para eu conseguir quebrar uma linha em html eu posso utilizar tags <br>exatamente dessa forma</p>
+
+     <!--<hr>: serve como uma linha horizontal, que separa seções de conteúdo de uma página, tag autossuficiente (não requer tag de fechamento, pode ser estilizada utilizando o CSS)-->
+     <!-- tag <br> (break) serve exatamente para quebrar a linha-->
+      
+</body>
+</html>
