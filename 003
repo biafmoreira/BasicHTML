@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>teste de imagem</title>
+</head> 
+<h1>teste imagem hehe</h1>
+<hr>
+<p>logo abaixo vai aparecer uma imagem</p> <br>
+ <img src="paisagem700.jpg" alt="Logo HTML5">
+<body>
+</body>
+</html>
