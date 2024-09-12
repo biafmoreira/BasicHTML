@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="Custom-Icon-Design-Flatastic-10-Bear.ico" type="image/x-icon">
+    <title>semântica é importante</title>
+    <style>
+        body {
+            background-color:rgb(84, 184, 71) ;
+            background-image: -moz-linear-gradient(chrome
+);
+        }
+    </style>
+</head>
+<body> 
+    <center><h1>Semântica é importante</h1></center>
+
+    <h2>Aqui teremos um termo em negrito</h2>
+    <p>teste da palavra: <b>negrito</b>
+    <br>teste da palavra: <strong>negrito</strong></p>
+
+    <h2>Aqui teremos uma palavra em itálico</h2>
+      <p>teste da palavra: <i>itálico</i></p>
+      <p>teste da palavra: <em>itálico</em></p>
+
+    <h2>Aqui teremos um texto marcado </h2>
+      <p>teste palavra: <mark> marcado</mark></p>
+
+    <h2>Texto grande vs texto pequeno</h2>
+    <p>exemplo de texto grande: <big>grande</big></p>
+    <p>  exemplo de texto pequeno: <small>pequeno</small></p>
+
+    <h2>Texto deletado</h2>
+    <p>Exemplo de texto deletado: <del>excluido</del> </p>
+
+    <h2>texto insirido</h2>
+    <p>exemplo de texto insirido: <ins>insirido</ins></p>
+
+    <h2>Texto SOBRESCRITO</h2>
+    <P>exemplo: 20<sup>4</sup>+x </P>
+
+    <h2>Texto SUBSCRITO</h2>
+    <P>exemplo: H<sub>2</sub>O</P>
+    
+</body>
+</html>
