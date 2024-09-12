@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORMATAÇÃO DE COD E CITAÇÕES</title>
+</head>
+<body>
+    <h1>Formatações Novas</h1>
+    
+    <h2>Código simples em C</h2>
+    <pre>
+    <code>
+        int main(){
+        printf ("hello, world!"); 
+        return 0;
+    }
+    </code>
+    </pre>
+    <h2>Citações</h2>
+    <p><q>aprender usar o html é legal</q></p>
+
+</body>
+</html>
