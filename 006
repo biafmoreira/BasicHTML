@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LISTAS</title>
+</head>
+<body>
+    <h1> Aprendendo a trabalhar com listas</h1>
+    <h2>LISTAS ORDENADAS</h2>
+    <ol type="1">
+        <li>arrumar o quarto</li>
+        <li>lavar o banheiro</li>
+        <li>fazer o almoço</li>
+        <li>passear com o cachorro</li>
+        <li>estudar</li>
+    </ol>   
+    <h2>LISTAS NÃO ORDENADAS</h2> 
+    <ul type = "square">
+        <li>tomate</li>     
+        <li>macarrão</li>
+        <li>sabão em pó</li>
+        <li>carne</li>
+        <li>arroz</li>
+        <li>planta</li>
+    </ul>
+</body>
+</html>
