@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LISTAS</title>
+</head>
+<body>
+    <h1> Aprendendo a trabalhar com listas</h1>
+    <h2>LISTAS MISTAS</h2>
+    <ol>
+        <li>minhas cores favoritas</li>
+         <ul type = "square">
+            <li>vermelho</li>
+            <li>azul</li>
+            <li>rosa</li>
+         </ul>
+        <li>minhas comidas favoritas</li>
+        <ul type = "square">
+           <li>sushi</li>
+           <li>lasanha</li>
+           <li>pizza</li>
+        </ul>
+    </ol>
+</body>
+</html>
