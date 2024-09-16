@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabalhando com links</title>
+</head>
+<body>
+    <h1>USANDO LINKS EXTERNOS</h1>
+    <p>para saber mais, acesse meu <a href= https://github.com/biafmoreira target="_blank" rel="external">portfólio</a>.</p>
+    <p>você também pode acessar de forma direta o meu rpositório de HTML no Github <a href="https://github.com/biafmoreira/BasicHTML" target="_blank" rel="external">basicHTML</a></p>
+    
+</body>
+</html>
