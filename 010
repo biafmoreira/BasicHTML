@@ -1,0 +1,51 @@
+"PÁGINA 1"
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>listas internas</title>
+</head>
+<body>
+    <h1>usando links internos</h1>
+    <p>Essa é a primeira página do site,caso queira ir para a página dois basta clicar em "pág 2" a seguir:<a href="pgg2.html" target="_self" rel="next">pág 2</a></p>
+    <p>você também pode acessar a nossa página de noticias: <a href="noticias/index.html" target="_self" rel="next">noticias</a></p>
+    
+</body>
+</html>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"PÁGINA 2"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pág 2</title>
+</head>
+<body>
+    <p>estou estudando html por um canal do YouTube, Curso em Vídeo, caso tenha curiosidade basta clicar no link a seguir: <a href="https://www.youtube.com/watch?v=LeLnlT-ZKw8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=28" target="_blank" rel="nofollow">curso em video</a></p>
+    <p>essa é a pág 2, caso queira voltar para pág 1 <a href="index.html" target="_blank" rel="prev"> pág 1 </a></p>
+</body>
+</html>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"PÁGINA 3"
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Noticias</title>
+</head>
+<body>
+    <h1>Essa é a nossa página de noticias</h1>
+    <p>para você voltar a primeira págica basta clicar em: <a href="../index.html">pág 1</a></p>
+    
+</body>
+</html>
+
+
+
+
+
